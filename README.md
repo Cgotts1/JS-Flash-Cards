@@ -6,7 +6,7 @@
 ## <section id = "Description">Description</section>
 Welcome to the Flash Card Creator Application! This application was built using HTML, CSS, and JavaScript, and allows users to create flash cards and save them to local storage. With this application, users can easily create flash cards for studying, memorization, or any other purpose. The user interface is designed to be intuitive and easy to use, so users can quickly create and save their flash cards. Thank you to Web Dev Tutorials, who created the tutorial on YouTube. Their tutorial provided invaluable guidance on the fundamentals of HTML, CSS, and JavaScript.
 
-Tutorial by: Web Dev Tutorials   https://youtu.be/wtqbOFYivxw 
+Tutorial by: Web Dev Tutorials   https://youtu.be/wtqbOFYivxw <br>
 Link to application: https://cgotts1.github.io/JS-Flash-Cards/ 
 ![Site](./image1.png)
 
